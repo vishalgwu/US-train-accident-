@@ -35,6 +35,12 @@ frequency over the past 46 years?
 3. How can we predict the presence of crossing warning signs during railroad 
 accidents using historical data?
 
+# Team mates:
+1) Vishal Fulsundar
+2) Aakash Hariharan
+3) Trisha Singh
+4) Abhilash 
+
 ## References
 
 1. Arthur D. Little, Inc. (ADL). Risk Assessment for the Transportation of 
