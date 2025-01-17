@@ -41,7 +41,7 @@ accidents using historical data?
 Hazardous Materials by Rail, Supplementary Report: Railroad Accident Rate 
 and Risk Reduction Option Effectiveness Analysis and Data, 2nd rev.ADL, 
 Cambridge, Mass., 1996.
-Arthur, D. (1996). Little, Inc.(ADL). Risk assessment for the transportation of hazardous materials by rail, supplementary report: railroad accident rate and risk reduction option effectiveness analysis and data.
+APA citataion -Arthur, D. (1996). Little, Inc.(ADL). Risk assessment for the transportation of hazardous materials by rail, supplementary report: railroad accident rate and risk reduction option effectiveness analysis and data.
 2. Barkan, C. P. L., C. T. Dick, and R. Anderson. Railroad Derailment Factors 
 Affecting Hazardous Materials Transportation Risk. In Transportation 
 Research Record: Journal of the Transportation Research Board,No. 1825, 
